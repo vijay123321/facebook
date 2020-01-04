@@ -18,7 +18,7 @@ public class Parameters {
 	driver.navigate().to("https://opensource-demo.orangehrmlive.com/");
 	}
 	
-	@Test
+	@Test(vijay123)
 	@org.testng.annotations.Parameters({"UserName","PassWord"})
 	public void verifyLogin(String UserName,String PassWord) {
 		driver.findElement(By.id("txtUsername")).sendKeys(UserName);
