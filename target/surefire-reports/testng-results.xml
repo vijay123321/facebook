@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="44159" started-at="2020-01-03T08:19:06Z" finished-at="2020-01-03T08:19:51Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="44159" started-at="2020-01-03T08:19:06Z" finished-at="2020-01-03T08:19:51Z">
+      <class name="PageTests.TestSubscription">
+        <test-method status="PASS" signature="verifySubscription()[pri:0, instance:PageTests.TestSubscription@a2431d0]" name="verifySubscription" duration-ms="5644" started-at="2020-01-03T13:49:45Z" finished-at="2020-01-03T13:49:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubscription -->
+      </class> <!-- PageTests.TestSubscription -->
+      <class name="PageTests.TestCart">
+        <test-method status="PASS" signature="VerifyCart()[pri:0, instance:PageTests.TestCart@31e5415e]" name="VerifyCart" duration-ms="11500" started-at="2020-01-03T13:49:13Z" finished-at="2020-01-03T13:49:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyCart -->
+      </class> <!-- PageTests.TestCart -->
+      <class name="PageTests.TestObjects">
+        <test-method status="PASS" signature="verifyTabs()[pri:0, instance:PageTests.TestObjects@34f5090e]" name="verifyTabs" duration-ms="16034" started-at="2020-01-03T13:49:25Z" finished-at="2020-01-03T13:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTabs -->
+        <test-method status="PASS" signature="verifytitle()[pri:0, instance:PageTests.TestObjects@34f5090e]" name="verifytitle" duration-ms="420" started-at="2020-01-03T13:49:41Z" finished-at="2020-01-03T13:49:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+      </class> <!-- PageTests.TestObjects -->
+      <class name="PageTests.TestSML">
+        <test-method status="PASS" signature="VerifySsize()[pri:0, instance:PageTests.TestSML@693fe6c9]" name="VerifySsize" duration-ms="3914" started-at="2020-01-03T13:49:41Z" finished-at="2020-01-03T13:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifySsize -->
+      </class> <!-- PageTests.TestSML -->
+      <class name="PageTests.PageCountTest">
+        <test-method status="PASS" signature="verifyPageCount()[pri:0, instance:PageTests.PageCountTest@a3d8174]" name="verifyPageCount" duration-ms="6595" started-at="2020-01-03T13:49:06Z" finished-at="2020-01-03T13:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageCount -->
+      </class> <!-- PageTests.PageCountTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

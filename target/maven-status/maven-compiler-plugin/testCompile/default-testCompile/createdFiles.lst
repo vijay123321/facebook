@@ -1,0 +1,7 @@
+PageTests\Parameters.class
+PageTests\TestSML.class
+PageTests\DataProvider.class
+PageTests\TestObjects.class
+PageTests\TestCart.class
+PageTests\TestSubscription.class
+PageTests\PageCountTest.class
