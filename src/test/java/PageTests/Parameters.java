@@ -19,6 +19,9 @@ public class Parameters {
 	}
 	
 	@Test(vijay000)
+
+	@Test(vijay123)
+
 	@org.testng.annotations.Parameters({"UserName","PassWord"})
 	public void verifyLogin(String UserName,String PassWord) {
 		driver.findElement(By.id("txtUsername")).sendKeys(UserName);
