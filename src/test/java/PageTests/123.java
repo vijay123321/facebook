@@ -9,6 +9,10 @@ import org.testng.annotations.Test;
 import com.beust.jcommander.Parameter;
 
 public class Parameters123 {
+
 	WebDriver driver2;
+
+	WebDriver driver1;
+
 		
 }
